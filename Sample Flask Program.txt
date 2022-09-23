@@ -1,9 +1,9 @@
 import flask
 from flask import request,jsonify
-app=Flask(_name_)
+app=Flask(__name__)
 app.config["DEBUG"]=True
  
-users_dict=[{'id':1,'name':'sri','age':13},{'id':2,'name':'sree','age':31},
+users_dict=[{'id':1,'name':'sri','age':12},{'id':2,'name':'sree','age':21},
 
 @app.route('/users',methods=['GET'])
 def get_users():
@@ -65,3 +65,9 @@ def delete_users(id):
         if user['id']==int(id):
             users_dict.remove(user)
     return{}
+
+
+
+   
+
+
