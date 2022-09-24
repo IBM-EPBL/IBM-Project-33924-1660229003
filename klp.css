@@ -1,0 +1,23 @@
+h1
+{
+align:"center";
+font color:"white";
+}
+table
+{
+border="1";
+width="40%";
+height:"600px";
+align:"center";
+bgcolor:"black";
+}
+tr
+{
+align:"center";
+bgcolor:"yellow";
+}
+th
+{
+font color:"yellow";
+}
+Footer
