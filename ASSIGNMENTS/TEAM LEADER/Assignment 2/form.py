@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask rendr_template
 app=Flask(__name__)
 @app.route('/',methods=['GET'])
 def Assignment_2():
