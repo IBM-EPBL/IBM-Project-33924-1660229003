@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="assig.css">
+<body>
+<title>SUCESSFULL</title>
+<p><strong><mark>REGISTRATION SUCESSFULL</mark></strong></p>
+</head>
+</body>
+</html>

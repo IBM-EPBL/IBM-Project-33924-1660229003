@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html> 
+    <head>
+        <title>REGISTRATION FORM</title>
+    </head> 
+    
+    <body>
+<h1>Registration Form</h1>
+        <table>
+            <tr>
+              
+                <td> FIRST NAME   :</td>
+                <td >
+                    <input type="text"  name="">
+                </td>
+</tr>
+<tr>
+                
+                <td>
+                    LAST NAME :</td>
+                <td>
+                    <input type="text" name="">
+                </td>
+            
+            </tr>
+            <tr>
+                <td>QUALIFICATION:</td>
+                <td>
+                   <select QUalification="Qulaification">
+                
+                    
+                    <option>B.E</option>
+                    <option>B.TECH</option>
+                    <option>MBA</option>
+                    <option>MCA</option>
+                    <option>M.E</option>
+                    <option>M.TECH</option>
+                    <option>PHD</option>
+                </select>
+                </td>
+                
+            </tr>
+            <tr>
+                <td> AGE:</td>
+                <td>
+                    <input type="text"  Age="">
+                </td>
+            </tr>
+            <tr>
+                <td> EMAIL:</td>
+                <td>
+                    <input type="text"  Email="">
+                </td>
+            </tr>
+            <td>
+            <input type="submit" value="submit">
+            </td>
+
+    </body> 
+    </html>  
